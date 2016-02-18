@@ -6,6 +6,7 @@
 #include <stdlib.h>
 #include <fcntl.h>
 /***fdsjkfjklasjfaslk**/
+/***git 很难用哦*/
 static void usage(void)
 {
         fprintf(stderr, "touch: usage: touch [-alm] [-t time_t] <file>\n");
