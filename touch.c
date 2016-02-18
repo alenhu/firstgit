@@ -13,7 +13,7 @@ static void usage(void)
         exit(1);
 }
 /*还好吧*/ ====
-冲突我不喜欢喜欢
+冲突我不喜欢喜欢；冲突我喜欢
 int touch_main(int argc, char *argv[])
 {
         int i, fd, aflag = 0, mflag = 0, debug = 0, flags = 0;
