@@ -5,7 +5,7 @@
 #include <sys/stat.h>
 #include <stdlib.h>
 #include <fcntl.h>
-
+/****yyyyyy*****/
 static void usage(void)
 {
         fprintf(stderr, "touch: usage: touch [-alm] [-t time_t] <file>\n");
