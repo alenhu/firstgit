@@ -11,7 +11,7 @@ static void usage(void)
         fprintf(stderr, "touch: usage: touch [-alm] [-t time_t] <file>\n");
         exit(1);
 }
-
+/*还好吧*/
 int touch_main(int argc, char *argv[])
 {
         int i, fd, aflag = 0, mflag = 0, debug = 0, flags = 0;
